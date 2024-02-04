@@ -1,0 +1,56 @@
+.book{
+    background-color: rgb(248, 232, 217);
+    margin-top: 0px;
+    height: 800px;
+    padding: 0 7vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+}
+.book-table{
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    border-radius: 19px;
+
+}
+
+.your h1{
+    font-size: 33px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(255,70, 1);
+    font-weight: bold;
+}
+
+.in{
+    height: 35px;
+    width:400px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.your p{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-weight: 550;
+}
+
+.red_btn{
+    cursor: pointer;
+    margin-top: 20px;
+    width: 460px;
+    margin-left: 18px;
+    font-weight: bold;
+    color: aliceblue;
+    line-height: 50px;
+    background-color: rgb(253,77,8);
+    border-radius: 5px;
+    border: 1px solid rgb(253,77,8);
+    box-shadow: 0 10px 15px rgb(250,120,60);
+    transition: all 0.2s;
+  }
+
